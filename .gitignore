@@ -1,0 +1,6 @@
+__pycache__/
+.pytest_cache/
+dados_test.json
+dados.json
+*.pyc
+.vscode/
